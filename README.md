@@ -5,7 +5,7 @@ This repo demonstrates how to restrict the color table of a video to a specific 
 ## Usage
 
 ```bash
-sh ./convert.sh input.mp4 palette.png output.mp4
+sh ./convert.sh
 ```
 
 This will convert the video `input.mp4` to `output.mp4` using the color table `palette.png`. The color table should be a 256x1 image where each pixel represents a color in the color table.
