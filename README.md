@@ -1,3 +1,4 @@
+
 # Video Color Table
 
 This repo demonstrates how to restrict the color table of a video to a specific set of colors. This is useful for creating a consistent look for a video, or for creating a stylized effect.
@@ -14,27 +15,11 @@ This will convert the video `input.mp4` to `output.mp4` using the color table `p
 
 The following is an example of a color table and the resulting video:
 
-<!-- Table -->
-<table>
-    <thead>
-        <tr>
-            <th>Input Video</th>
-            <th>Output Video</th>
-        </tr>
-    </thead>
-  <tr>
-    <td>
-    <video width="320" height="240" controls>
-      <source src="input.mp4" type="video/mp4">
-    </video>
-    </td>
-    <td>
-    <video width="320" height="240" controls>
-      <source src="output.mp4" type="video/mp4">
-    </video>
-    </td>
-  </tr>
-</table>
+https://github.com/user-attachments/assets/0ff6ef30-bf2b-4b3d-b9eb-271d5b79451c
+
+https://github.com/user-attachments/assets/f1b2c2cc-df04-400c-b411-5431572228c7
+
+
 
 ## Color Table
 
